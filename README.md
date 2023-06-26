@@ -1,5 +1,2 @@
-# FNaF-SB-Modding-Template
-
-If you wanna start modding SB, you can use this project as a baseline.
-It has a bunch of useful references and bits of code to use in your mods.
-Just credit me if you use it!
+# My FNAF Workspace
+This is where all nonchaos mods I make go. Markers, Test, HardMode, and Cableframe are from the default template that Blanana provided and are not mine.
